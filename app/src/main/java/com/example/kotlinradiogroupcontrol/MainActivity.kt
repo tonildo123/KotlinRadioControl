@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-
+//////////////// vamos de nuevom con los cambios
 
     }
 
@@ -51,4 +51,6 @@ class MainActivity : AppCompatActivity() {
 
         tvResultado.text = "El resultado es " + resultado
     }
+
+    //// quiero ver que se suban los cambios
 }
